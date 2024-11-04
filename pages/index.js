@@ -1,3 +1,16 @@
+/*********************************************************************************
+*  WEB422 – Assignment 4
+*
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Param Karodia Student ID: 112126222 Date: November 4, 2024
+*
+********************************************************************************/ 
+
+
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
